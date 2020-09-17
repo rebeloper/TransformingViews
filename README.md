@@ -14,3 +14,5 @@ How to mask one view with another in SwiftUI
 If you want to master SwiftUI modifiers you need to learn padding view in SwiftUI, color the padding of view in SwiftUI, how to draw a border around a view in SwiftUI, how to add stroke for view in SwiftUI, how to add shadow for view in SwiftUI and how to blur view in SwiftUI.
 
 [Let’s learn all of this in this video right now!](https://www.youtube.com/watch?v=c37lKqla0IA&list=PL_csAAO9PQ8aZ2kmFmyfTNfiRBZZTMpt1&index=5)
+
+https://www.youtube.com/watch?v=c37lKqla0IA&list=PL_csAAO9PQ8aZ2kmFmyfTNfiRBZZTMpt1&index=5
